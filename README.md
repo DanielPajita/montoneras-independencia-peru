@@ -1,145 +1,81 @@
 
 # Guerrillas y montoneras durante la independencia del Perú (1813–1824)
 
-Repositorio personal de investigación histórica dedicado al estudio de la participación de las guerrillas y montoneras en el proceso de independencia del Perú, a partir de la revisión, sistematización y análisis de fuentes documentales.
+Este repositorio es un proyecto personal de aprendizaje e investigación sobre la participación de guerrillas y montoneras durante la independencia del Perú.
 
-## 1. Presentación
+Surge de mi interés por comprender este proceso desde el **materialismo histórico**, prestando atención a las condiciones económicas, las relaciones sociales, los conflictos políticos y la participación de los distintos sectores de la población.
 
-Este proyecto reúne resúmenes, notas, preguntas de investigación y reflexiones sobre la participación de guerrillas y montoneras durante la independencia del Perú (1813–1824).
+Mi formación es en Economía y Ciencia de Datos, no en Historia. Por ello, este espacio busca reunir fuentes, preguntas, resúmenes y análisis que me permitan profundizar progresivamente en el tema.
 
-El interés principal es comprender estos procesos históricos considerando sus condiciones económicas, sociales y políticas, tomando el **materialismo histórico** como perspectiva de análisis.
+## 1. Objetivo
 
-Se presta especial atención a la composición social de las fuerzas insurgentes, sus formas de organización, las relaciones entre los actores políticos y militares, y las condiciones materiales que influyeron en su participación durante la independencia.
+Explorar la participación de las guerrillas y montoneras en la independencia del Perú (1813–1824), considerando su composición social, formas de organización, intereses y relaciones con los procesos económicos y políticos de la época.
 
-El repositorio tiene un carácter exploratorio y de aprendizaje. Las interpretaciones desarrolladas constituyen aproximaciones personales sujetas a revisión, contrastación documental y discusión académica.
+Entre las preguntas que orientan el proyecto se encuentran:
 
-## 2. Objetivos del proyecto
+- ¿Quiénes integraban las guerrillas y montoneras?
+- ¿Qué condiciones económicas y sociales influyeron en su participación?
+- ¿Qué intereses y contradicciones existían entre los distintos actores?
+- ¿Cómo se relacionaron las movilizaciones locales con los ejércitos patriotas y realistas?
+- ¿Qué papel desempeñaron estos movimientos en el proceso de independencia?
 
-### Objetivo general
+Estas preguntas son preliminares y podrán modificarse conforme avance la revisión documental.
 
-Analizar la participación de las guerrillas y montoneras durante la independencia del Perú (1813–1824), considerando sus características sociales, económicas, políticas y territoriales desde una perspectiva histórico-materialista.
+## 2. Fuentes documentales
 
-### Objetivos específicos
+La principal referencia es la *Colección Documental de la Independencia del Perú*, especialmente los seis volúmenes dedicados a **Guerrillas y montoneras durante la independencia**, así como su nueva edición.
 
-- Sistematizar información documental sobre guerrillas y montoneras durante el periodo de estudio.
-- Identificar los principales actores, territorios y acontecimientos relacionados con su participación.
-- Examinar la composición social y las formas de organización de estas fuerzas.
-- Explorar las relaciones entre las condiciones materiales, los conflictos sociales y la movilización política.
-- Desarrollar preguntas e hipótesis de investigación mediante el análisis crítico de las fuentes.
-- Elaborar productos de investigación y divulgación histórica a partir de los resultados obtenidos.
+No se plantea necesariamente una lectura completa de todos los volúmenes. La revisión será progresiva y selectiva, según los temas y preguntas de interés.
 
-## 3. Fuentes documentales
+También se incorporarán estudios historiográficos y otras fuentes que permitan ampliar o contrastar la información.
 
-La principal base documental del proyecto está constituida por los volúmenes dedicados a **Guerrillas y montoneras durante la independencia** de la *Colección Documental de la Independencia del Perú* y su nueva edición documental.
+## 3. Metodología y uso de inteligencia artificial
 
-Estas fuentes se complementarán progresivamente con:
+El trabajo consiste en revisar y organizar información documental, elaborar resúmenes, formular preguntas y desarrollar interpretaciones históricas.
 
-- Estudios historiográficos sobre la independencia peruana.
-- Investigaciones sobre la participación popular y las movilizaciones rurales.
-- Bibliografía sobre historia económica y social del Perú.
-- Fuentes estadísticas, económicas y geográficas disponibles.
-- Otras colecciones documentales relevantes para el periodo.
+Utilizo **NotebookLM (Google)** para apoyar la exploración y síntesis de documentos, y **ChatGPT (OpenAI)** para organizar ideas, discutir preguntas, apoyar la redacción y desarrollar herramientas de análisis.
 
-Los materiales y referencias utilizados se organizan en la carpeta [`01_fuentes`](01_fuentes/).
+Estas herramientas pueden cometer errores. Por ello, sus resultados no se consideran evidencia histórica por sí mismos y requieren contrastación con las fuentes originales.
 
-## 4. Preguntas de investigación
+Los materiales del repositorio pueden tener distintos niveles de revisión y no deben interpretarse como una investigación historiográfica exhaustiva.
 
-El proyecto contempla la formulación progresiva de preguntas relacionadas con:
-
-- La composición social de guerrillas y montoneras.
-- Las condiciones económicas y sociales de los territorios involucrados.
-- Las motivaciones y los intereses de los diferentes actores.
-- Las relaciones entre las comunidades locales y los ejércitos independentistas y realistas.
-- Las formas de organización política, militar y territorial.
-- Las contradicciones sociales presentes durante el proceso de independencia.
-
-Estas preguntas serán revisadas y reformuladas conforme avance la investigación.
-
-La matriz correspondiente se encuentra en [`02_preguntas`](02_preguntas/).
-
-## 5. Metodología de trabajo
-
-El proyecto contempla las siguientes actividades:
-
-**1. Revisión documental**
-
-Identificación y lectura de documentos históricos, bibliografía especializada y materiales complementarios.
-
-**2. Sistematización de información**
-
-Elaboración de resúmenes, fichas de lectura y registros estructurados para organizar los acontecimientos, actores y territorios identificados.
-
-**3. Formulación de preguntas e hipótesis**
-
-Identificación de problemas históricos que puedan ser examinados mediante la revisión y contrastación de fuentes.
-
-**4. Análisis histórico**
-
-Interpretación crítica de las fuentes, considerando sus contextos de producción, limitaciones y posibles contradicciones.
-
-**5. Análisis de datos**
-
-Exploración de herramientas computacionales para organizar, clasificar y analizar información histórica, cuando la naturaleza y disponibilidad de los datos lo permitan.
-
-### Uso de herramientas de inteligencia artificial
-
-Se utiliza NotebookLM como herramienta auxiliar para apoyar la revisión y síntesis de documentos.
-
-Los resultados generados mediante inteligencia artificial se consideran materiales preliminares que requieren contrastación con las fuentes originales.
-
-La interpretación histórica, la formulación de hipótesis y las conclusiones son responsabilidad del autor.
-
-## 6. Organización del repositorio
+## 4. Organización del repositorio
 
 | Carpeta | Contenido |
 |---------|-----------|
-| [`01_fuentes`](01_fuentes/) | Fuentes documentales, bibliografía y referencias. |
-| [`02_preguntas`](02_preguntas/) | Preguntas de investigación y matrices de análisis. |
-| [`03_notas`](03_notas/) | Resúmenes documentales, fichas de lectura y notas. |
-| [`04_analisis`](04_analisis/) | Interpretaciones, hipótesis y análisis históricos. |
-| [`05_scripts`](05_scripts/) | Código y herramientas para el procesamiento y análisis de datos. |
-| [`06_resultados`](06_resultados/) | Tablas, gráficos, reportes y otros productos analíticos. |
+| [01_fuentes](01_fuentes/) | Fuentes documentales y referencias bibliográficas. |
+| [02_preguntas](02_preguntas/) | Preguntas de investigación y matrices de análisis. |
+| [03_notas](03_notas/) | Resúmenes, fichas de lectura y notas. |
+| [04_analisis](04_analisis/) | Reflexiones, hipótesis e interpretaciones históricas. |
+| [05_scripts](05_scripts/) | Código para procesar y analizar información. |
+| [06_resultados](06_resultados/) | Tablas, gráficos y otros productos del análisis. |
 
-La estructura permite diferenciar los materiales documentales, las actividades de investigación y los resultados elaborados.
+## 5. Desarrollo del proyecto
 
-## 7. Productos del proyecto
+El repositorio se actualizará progresivamente con:
 
-El desarrollo del repositorio contempla progresivamente los siguientes productos:
+- Resúmenes y sistematización de documentos históricos.
+- Preguntas e hipótesis de investigación.
+- Análisis sobre actores, acontecimientos y procesos sociales.
+- Aplicaciones de ciencia de datos, cuando resulten pertinentes.
+- Posibles ensayos y un futuro libro digital.
 
-- Compendio de resúmenes y fichas documentales.
-- Matrices de preguntas y problemas de investigación.
-- Cronologías y sistematización de acontecimientos.
-- Bases de datos de actores, territorios y sucesos históricos.
-- Análisis históricos y ensayos temáticos.
-- Visualizaciones y análisis geoespaciales, cuando corresponda.
-- Eventual elaboración de un libro digital que articule los resultados de la investigación.
+## 6. Alcances
 
-La publicación de estos productos dependerá del avance del proyecto y de la disponibilidad y calidad de las fuentes.
+Este es un espacio personal de estudio y reflexión histórica, no una investigación académica concluida.
 
-## 8. Estado del proyecto
+Los resúmenes, análisis e interpretaciones pueden contener errores, omisiones o aspectos pendientes de verificación. Están abiertos a correcciones y revisiones conforme se incorporen nuevas fuentes.
 
-**Estado: En desarrollo**
+El materialismo histórico constituye la perspectiva principal de análisis, pero las interpretaciones deben contrastarse con la evidencia documental.
 
-Actualmente, el trabajo se concentra en la recopilación, revisión y sistematización de fuentes documentales, así como en la formulación de preguntas de investigación.
+## Autor
 
-Los análisis y productos serán incorporados progresivamente.
+**Daniel Pajita**
 
-## 9. Alcances y limitaciones
-
-Este repositorio constituye un espacio personal de formación e investigación histórica.
-
-No pretende presentar interpretaciones definitivas ni sustituir investigaciones historiográficas especializadas.
-
-Los contenidos podrán ser corregidos, ampliados o reformulados conforme se incorporen nuevas fuentes y perspectivas de análisis.
-
-Se procurará diferenciar la información procedente de documentos originales, las interpretaciones historiográficas y los análisis propios.
-
-## 10. Autor
-
-Proyecto personal de investigación histórica desarrollado por **Daniel Pajita**.
+Economista con formación en Ciencia de Datos e interés en la historia económica y social del Perú.
 
 GitHub: [DanielPajita](https://github.com/DanielPajita)
 
 ---
 
-*Repositorio en construcción y actualización progresiva.*
+*Proyecto en desarrollo.*
