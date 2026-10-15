@@ -33,7 +33,7 @@ También se incorporarán estudios historiográficos y otras fuentes que permita
 
 El trabajo consiste en revisar y organizar información documental, elaborar resúmenes, formular preguntas y desarrollar interpretaciones históricas.
 
-Utilizo **Gemini NotebookLM** para apoyar la exploración y síntesis de documentos, y **ChatGPT (OpenAI)** para organizar ideas, discutir preguntas, apoyar la redacción y desarrollar herramientas de análisis.
+Utilizo **Gemini Notebook** para apoyar la exploración y síntesis de documentos, y **ChatGPT (OpenAI)** para organizar ideas, discutir preguntas, apoyar la redacción y desarrollar herramientas de análisis.
 
 Estas herramientas pueden cometer errores. Por ello, sus resultados no se consideran evidencia histórica por sí mismos y requieren contrastación con las fuentes originales.
 
